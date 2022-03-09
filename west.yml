@@ -12,7 +12,7 @@ manifest:
     - name: nrf
       repo-path: sdk-nrf
       remote: nrfconnect
-      revision: v1.7.0
+      revision: v1.9.0
       import: true
   self:
     # This repository should be cloned to 
